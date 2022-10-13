@@ -1,5 +1,5 @@
 package devops;
 
-public class Arithematic {
+public interface Arithematic {
 
 }
